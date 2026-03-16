@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6e1e3c9-5b50-4008-906d-cb03dc58b2ff" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/AdditionOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,33 +101,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.Devopes_exp_3_groovy [assemble].executor": "Run",
-    "Gradle.Devopes_exp_3_groovy [buildDependents].executor": "Run",
-    "Gradle.Devopes_exp_3_groovy [buildNeeded].executor": "Run",
-    "Gradle.Devopes_exp_3_groovy [build].executor": "Run",
-    "Gradle.Devopes_exp_3_groovy [classes].executor": "Run",
-    "Gradle.Devopes_exp_3_groovy [clean].executor": "Run",
-    "Gradle.Devopes_exp_3_groovy [init].executor": "Run",
-    "Gradle.Devopes_exp_3_groovy [jar].executor": "Run",
-    "Gradle.Devopes_exp_3_groovy [javadoc].executor": "Run",
-    "Gradle.Devopes_exp_3_groovy [processResources].executor": "Run",
-    "Gradle.Devopes_exp_3_groovy [processTestResources].executor": "Run",
-    "Gradle.Devopes_exp_3_groovy [projects].executor": "Run",
-    "Gradle.Devopes_exp_3_groovy [testClasses].executor": "Run",
-    "Gradle.Devopes_exp_3_groovy [updateDaemonJvm].executor": "Run",
-    "Gradle.Devopes_exp_3_groovy [wrapper].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/haver/gradle.properties",
-    "onboarding.tips.debug.path": "C:/Users/haver/IdeaProjects/Devopes_exp_3_groovy/src/main/java/org/example/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Gradle.Devopes_exp_3_groovy [assemble].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Devopes_exp_3_groovy [buildDependents].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Devopes_exp_3_groovy [buildNeeded].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Devopes_exp_3_groovy [build].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Devopes_exp_3_groovy [classes].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Devopes_exp_3_groovy [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Devopes_exp_3_groovy [init].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Devopes_exp_3_groovy [jar].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Devopes_exp_3_groovy [javadoc].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Devopes_exp_3_groovy [processResources].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Devopes_exp_3_groovy [processTestResources].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Devopes_exp_3_groovy [projects].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Devopes_exp_3_groovy [testClasses].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Devopes_exp_3_groovy [updateDaemonJvm].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Devopes_exp_3_groovy [wrapper].executor&quot;: &quot;Run&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/haver/gradle.properties&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/haver/IdeaProjects/Devopes_exp_3_groovy/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Gradle.Devopes_exp_3_groovy [processTestResources]">
     <configuration name="Devopes_exp_3_groovy [jar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
@@ -271,6 +263,17 @@
       <updated>1773644711653</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
